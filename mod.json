@@ -1,0 +1,16 @@
+{
+  "geode": "5.3.0",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "sheso.gdbot",
+  "name": "GdBot",
+  "version": "0.1.0",
+  "developer": "sheso",
+  "description": "Geode scaffold for an in-process Geometry Dash microbot and overlay.",
+  "tags": [
+    "utility",
+    "developer",
+    "interface"
+  ]
+}
